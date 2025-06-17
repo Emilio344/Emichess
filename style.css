@@ -1,0 +1,32 @@
+
+body {
+  font-family: sans-serif;
+  background: #0a0a0a;
+  color: white;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+header {
+  background: #1a1a1a;
+  padding: 1em;
+}
+.main-menu {
+  margin-top: 2em;
+}
+.main-menu button {
+  margin: 0.5em;
+  padding: 1em 2em;
+  background: #222;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+.images img {
+  width: 80%;
+  margin: 1em auto;
+}
+.user-tag {
+  color: #6ff;
+  font-weight: bold;
+}
